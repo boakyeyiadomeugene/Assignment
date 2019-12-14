@@ -1,0 +1,23 @@
+.top{
+    background-color: black;
+    width: 100%;
+    height: 720px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+h4,h6{
+    color: white;
+}
+
+.im{
+
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* padding: 15px; */
+    
+}
